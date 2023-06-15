@@ -1,0 +1,1 @@
+<p class="text-center"><img class="card-img-top" id="LogosCat" src="LOGOS/logo-conti-gold-on-white.png" alt="" /></p>

@@ -1,0 +1,775 @@
+body{
+  background: url(nombres.png) no-repeat left left fixed;
+} 
+#fondo1{
+	background: url(fondos/fondoLogin.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.contenedor{
+width: 100%;
+max-width: 10000px;
+}
+#navegacion{
+margin-right: -200px;
+}
+#latino{
+width: 70px;
+height: 110px;
+margin-right: 10px;
+}
+#opciones{
+margin-right: 30px;
+}
+#nombres{
+margin-left: -150px;
+width: 450px;
+height: 150;
+}
+#somos{
+margin-top: 180px;
+background:url(nombres.png);
+}
+#texto{
+background-color: white;
+}
+#amarillo{
+
+background-color: #EAAD00;
+}
+#blanco{
+background-color: rgb(255, 255, 255);
+}
+#vis{
+font: 600% monospace;
+
+}
+#neg{
+font: 600% monospace;
+}
+#negro{
+background-color: black;
+}
+/* Nav Color y letra */
+nav.navbar {
+background-color: #000000;
+}
+
+nav.navbar ul.nav li {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#GL{
+margin-left: 50px;
+font: 200% Brush Script MT;
+}
+#cabezera{
+background-color: black;
+margin-bottom: -1.5%;
+margin-top: -1%;
+}
+#imgnavegacion{
+width: 30px;
+height: 45px;
+margin-right: 5%;
+margin-top: -1%;
+margin-bottom: -3%;
+
+}
+.navbar-brand{
+margin-right: 20%;
+}
+.li{
+font: 300;
+}
+
+
+#opci{
+font-size: 15px;
+font-family: ANTON;
+font-style: normal;
+font-variant: normal;
+line-height: 26.4px;
+}
+#GL1{
+font: 200% Brush Script MT;
+margin-top: -55px;
+margin-right: 1%;
+}
+.c-img{
+margin: 0% auto;
+position: relative;
+display: flex;
+align-items: center;
+}
+#img1{
+width: 100%;
+height: 300px;
+margin-left: -0px;
+}
+.c-texto{
+position: absolute;
+
+
+}
+#texto1{
+color: black;
+padding: 10px 20px;
+font: 50px Verdana;
+margin-left: 300px;
+background-color: white;
+opacity: .65;
+}
+
+.container2{
+margin-left: 50px;
+}
+#separador{
+width: 106%;
+height: 10px;
+margin-left: -100px;
+}
+#info{
+width: 14%;
+margin-bottom: 1%;
+}
+
+#textonav{
+font-size: 120%;
+}
+#numero{
+font-size: 150%;
+}
+#latllan{
+margin-top: 0%;
+margin-right: 3%;
+}
+#navbarSupportedContent{
+margin-top: -1%;
+}
+#buscador{
+
+margin-right: 5%;
+}
+#aceite{
+  width: 18px;
+  margin-right: 2%;
+}
+#llanta{
+width: 18px;
+margin-right: 2%;
+}
+#buscador{
+margin: 0%;
+align-items: center;
+}
+
+#login{
+margin-top: 1%;
+}
+#insesion{
+margin-right: 10px;
+}
+
+#ofrecemos{
+  background-color: black;
+}
+
+#boton1{
+  margin-bottom: 7%;
+}
+#formulario1{
+  background-color: black;
+}
+
+.input-group span{
+  background-color: black;
+}
+.input-group input{
+  background-color: #ffffff;
+  
+}
+.col-8 form{
+  margin-left: -9%;
+}
+
+#testimonios{
+  width: 100%;
+  max-width: 120%;
+}
+
+
+#continental-logo{
+  width: 50%;
+}
+
+#iconosheader{
+  width: 15%;
+  margin: -5%;
+  margin-right: 1%;
+}
+#camion{
+ width: 10%;
+ margin: -5%;
+ margin-left: 1%;
+margin-right: 2%;
+
+}
+#formulario{
+  margin: 0 auto;
+}
+#Sotera{
+  width: 100px;
+  height: 10px;
+}
+/* Estilos Renovado */
+#ImgRenovado{
+  width: 100%;
+}
+/* Estilos de catalogo */
+
+
+#BotonesCat{
+  margin: 1%;
+}
+#MenuLlantas{
+  margin-left: 35%;
+  margin-bottom: 10%;
+}
+/* Llantas del Catalogo Continental */
+#ImagCat{
+  width: 120px;
+  height: 200px;
+}
+/* LLantas del Catalogo de General Tire */
+#ImagCat1{
+  width: 170px;
+  height: 200px;
+}
+/* Llantas del catalogo de Sailun */
+#ImagCat2{
+  width: 120px;
+  height: 200px;
+}
+
+#DetallesProductos{
+  background-color: black;
+}
+
+#Footer{
+  width: 100%;
+  height: 300px;
+  
+}
+
+/* Pie de pagina */
+footer{
+          background-image: url("fondos/footer.jpg");
+          background-size: 100%;
+}
+
+/* Estilos antes en "header" */
+
+
+/* Scrollbar */
+body::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    background-color: #ffffff;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.678);
+    border-radius: 3px;
+}
+
+#Fblanco {
+    background-color: #fff;
+}
+
+#imgLub {
+    width: 50%;
+    max-width: 200px;
+}
+
+/* Carrusel */
+.carousel-control-next-icon {
+    background-image: url("iconos/next.png");
+    width: 40%;
+    height: 10%;
+
+    max-width: 70px;
+    max-height: 70px;
+}
+
+.carousel-dark .carousel-control-next-icon,
+.carousel-dark .carousel-control-prev-icon {
+    filter: invert(0%) grayscale(0%);
+}
+
+.carousel-dark .carousel-control-next-icon,
+.carousel-dark .carousel-control-prev-icon {
+    filter: invert(0%) grayscale(0%);
+}
+
+.carousel-control-prev-icon {
+    background-image: url("iconos/prev.png");
+    width: 40%;
+    height: 10%;
+
+    max-width: 70px;
+    max-height: 70px;
+}
+
+.carousel-item {
+    max-height: 820px;
+
+}
+
+/* Imagenes de entrega a domicilio */
+
+#Domicilio{
+    width: 100%;
+    max-width: 850px;
+    min-height: 20px;
+}
+
+.carousel-item img {
+    max-height: 820px;
+    width: 100%;
+    margin-bottom: -17px;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#index {
+    background-color: black;
+}
+
+#soteraimg {
+    width: 11%;
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+
+/* Estilos de las promociones */
+#promocion {
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+#PromocionIndex {
+    width: 95%;
+    margin-left: -2%;
+
+}
+
+#fondoNavbarNegro {
+    background-color: black;
+}
+
+h5 {
+    margin-top: -9%;
+    margin-bottom: -1%;
+}
+
+#llantaSai {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 100px;
+    height: 148px;
+}
+
+div.modal-header h5 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#LogoSotera {
+    width: 40%;
+}
+
+#somgif {
+    margin-top: -8.5%;
+    width: 100%;
+    max-width: 120%;
+}
+
+#ImgFooter {
+    width: 100%;
+    align-items: center;
+}
+
+#Acerd {
+    background-color: black;
+}
+
+#centrar {
+    margin-left: 8%;
+}
+
+#centrar2 {
+    margin: 4%;
+}
+
+#inputGroupSelect01 {
+    background-color: #EAAD00;
+}
+
+
+#letrasB {
+    margin-top: 1%;
+    font-size: 15px;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#letrasnav {
+    margin-right: 25px;
+    margin-top: 1.6%;
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+#letrasnav2 {
+    margin-right: 25px;
+    margin-top: 2%;
+    font-size: 19px;
+    font-family: Helvetica;
+    position: relative;
+    position: static;
+}
+
+nav {
+    margin-right: -30%;
+}
+
+#truck {
+    margin-bottom: -4%;
+    width: 50px;
+}
+
+#trailer {
+    margin-bottom: -3%;
+    width: 40px;
+}
+
+#basic-addon1 {
+    min-width: 100%;
+    width: 10%;
+}
+
+#basic-addon2 {
+    background-color: #000000;
+    width: 100px;
+}
+
+#infografia3 {
+    width: 100%;
+    min-width: 380px;
+    margin-left: -2%;
+}
+
+#sucur {
+    font-size: 20px;
+}
+
+#navbarDropdown {
+    color: #000;
+}
+
+#fondovab {
+    background-color: #fff;
+    /* background-image: url("fondos/NavFondo.png"); */
+    background-size: cover;
+
+}
+
+/* Iconos de Redes sociales en Index */
+#RS {
+    width: 40px;
+    margin-right: 1%;
+}
+
+#redes {
+    margin: 5%;
+    font-size: 22.5px;
+}
+
+#ImgContiVale {
+    background-color: #FD9800;
+    margin-bottom: -1%;
+}
+
+#redes1 {
+    margin: 5%;
+    font-size: 22px;
+}
+
+/* contivale */
+#Contivaleimg {
+    margin-top: 0.3%;
+    width: 100%;
+    margin-bottom: 1%;
+}
+
+/* Posicion de imagen de grupo latino */
+#ImagenGL {
+    width: 113px;
+    margin-bottom: -170px;
+}
+
+/* Estilos de Source */
+
+/* Fondo negro de los catalogos*/
+#fondoNegro {
+    background-color: white;
+}
+
+#FondoBlanco {
+    background-color: white;
+
+}
+
+#MarRenovado {
+    margin-top: 1%;
+}
+
+#Cabecerafin {
+    background-color: black;
+
+}
+
+#FNeg2 {
+    background-color: black;
+}
+
+#encab {
+    width: 100%;
+    min-width: 350px;
+    margin-top: 6%;
+    margin-bottom: -2%;
+
+    /* min-height: 35px; */
+}
+
+#white {
+    background-color: white;
+}
+
+
+#conta {
+    margin-top: 3%;
+    background-color: #b3b1ae8a;
+    text-align: center;
+    font-size: 20px;
+}
+
+#conta2 {
+    margin-top: 1.5%;
+    background-color: #EAAD00;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+#carru2 {
+    width: 100%;
+    max-width: 110%;
+    min-width: 10%;
+}
+
+footer {
+    background-image: url("fondos/footer.jpg");
+    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#ubicaciones {
+    background-image: url("fondos/contacto.jpg");
+    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#DisImg {
+    width: 80%;
+    margin-bottom: -3%;
+}
+
+#marcas {
+    margin-top: 1%;
+    background-color: white;
+}
+
+/* #ImgMarcas {
+    margin-top: 15px;
+    margin-bottom: 15px;
+} */
+
+.carousel button {
+    background-color: transparent;
+    border: 0;
+}
+
+.carousel button div {
+    background-color: black;
+    opacity: 0.80;
+
+}
+
+/* "P" del footer los catalogos */
+#PCOnti {
+    font-size: 50px;
+
+}
+
+/* Estilos Nav */
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #24252a;
+    padding-left: 2vw;
+    color: white;
+}
+
+li {
+    margin-top: 1.5%;
+}
+
+/* Flecha del footer */
+#flecha {
+    margin-right: 5.5%;
+    margin-top: -3%;
+}
+
+/* Footer Conti */
+#footerConti {
+    background-image: url("fondos/conti.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* footer General Tire */
+#footerGT {
+    background-image: url("fondos/GT.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* Footer Sailun */
+#footerSailun {
+    background-image: url("fondos/sailun.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* Footer Sotera */
+#footerSotera {
+    background-image: url("fondos/sotera.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* Footer Sumitomo */
+#footerSumitomo {
+    background-image: url("fondos/sumitomo1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* Footer Renovado */
+#footerRenovado {
+    background-image: url("fondos/renovado.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* Iconos de Distintivos */
+.media img {
+    margin-top: -1.5%;
+}
+
+#imegenes {
+    width: 100%;
+    margin: 0%;
+}
+
+#imegenes1 {
+    width: 100%;
+}
+
+#imegenes2 {
+    width: 100%;
+}
+
+/* Acordeon de Servi Express */
+#ImgAcordeon {
+    width: 100px;
+    margin-top: -12px;
+    margin-bottom: -12px;
+}
+
+#Acordeon {
+    margin-bottom: 2%;
+    background-color: #000;
+}
+
+#ImgAcordeon1 {
+    width: 90px;
+    margin-top: -12px;
+    margin-bottom: -12px;
+}
+
+.accordion-button {
+    background-color: #000;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: #000;
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .125);
+}
+
+.accordion-button collapsed {
+    color: white;
+}
+/* BOTON ESPECIAL*/
+.boton {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 30%;
+	height: 50px;
+	background: #141414;
+	color: #fff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	border: none;
+	cursor: pointer;
+	text-transform: uppercase;
+	transition: .3s ease all;
+	border-radius: 5px;
+	position: relative;
+	overflow: hidden;
+}
+
+.boton span {
+	position: relative;
+	z-index: 2;
+	transition: .3s ease all;
+}

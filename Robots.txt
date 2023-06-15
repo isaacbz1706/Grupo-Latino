@@ -1,0 +1,20 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-Agent: *
+allow: / 
+Allow: /index.html
+Allow: /Lubricantes.php
+Allow: /Acerca%20de.php
+Allow: /blog.php
+Allow: /photos.php
+Allow: /index.php
+Allow: /CatalogoConti.php
+Allow: /CatalogoGeneralTire.php
+Allow: /CatalogoSailun.php
+Allow: /CatalogoSumitomo.php
+Allow: /CatalogoSotera.php
+Allow: /ServiExpress.php
+Allow: /renovado.php
+
+Sitemap: https://grupolatino.com.mx/sitemap.xml

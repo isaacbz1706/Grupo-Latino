@@ -1,0 +1,1 @@
+<p class="text-center"><img class="card-img-top" id="LogoSotera" src="LOGOS/LogoSotera.png" alt="" /></p>
